@@ -1,0 +1,41 @@
+Aufgabe 1
+i = 2
+a = 3
+erst wird a ins i gespeichert 
+das ++ ist hinter dem a also 
+
+Aufgabe 2
+i = 0 -> c wird als 1 defeniert -> c soll kleine oder glech wie 4 sein-->
+  c++ es geht immer ein weiter -> (i += c - 0) i nimm die zahl von c und 
+addiert sie bei sich drauf bis  c < = also 4 ist
+i= 10
+c = 5 
+
+Aufgabe 3
+b = true
+m = 21
+n = 21
+Die While schleife geht solange bis er True ist, 
+dass heisst das b,n < m true sein muss und n < m ist
+
+Aufgabe 4
+i = 12
+!= = ungleich und i ist nicht gleich = 9 also + 2
+
+Aufgabe 5 
+case 2 benutz case 3 also j = 3 und i bleibt unverändert 
+
+Aufgabe 6 
+True 
+True
+True
+False
+False
+
+Aufgabe 7
+
+
+
+
+
+
